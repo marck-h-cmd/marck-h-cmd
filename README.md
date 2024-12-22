@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marck-h-cmd
 - 👀 I’m interested in web development...
-- 🌱 I’m currently learning Docker ...
 
  <hr/>
  
