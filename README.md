@@ -1,7 +1,6 @@
 <div  align="center">
 <h2>Hi 👋 I'm Marck A.<h2>
-<hr/>
-<h3>  I’m a Laravel Web Developer  </h3>
+<h3>  I’m a Web Developer  </h3>
  ![Mac's Stats](https://github-readme-stats.vercel.app/api?username=marck001&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
  
 </div>
