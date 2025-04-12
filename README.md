@@ -20,7 +20,7 @@
 ---
 
 ### Personal Projects Account
-Check out my personal projects here: [github.com/marck001](https://github.com/marck001)
+Check out other personal projects here: [github.com/marck001](https://github.com/marck001)
 </div>
 <!---
 marck-h-cmd/marck-h-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
