@@ -1,23 +1,27 @@
-<div  align="center">
-<h2>Hi 👋 I'm Marck A.<h2>
-<h3>  I’m a Web Developer  </h3>
- 
-</div>
-
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,python,javascript,mongodb,java,mysql" /><br>
+  
+  <h1>Hi 👋 I'm Marck A.</h1>
+  <h3>🌐 Web Developer | Full-Stack Enthusiast</h3>
+  
+  <p>Passionate about building clean, efficient, and user-friendly applications. Always learning.</p>
+  
 </div>
 
-<br/>
-<hr/>
+---
+
+<h2 align="center">⚒️ Languages & Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,git,github" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,php,laravel,nodejs,mysql,mongodb" />
+</div>
+
+---
 
 ### Personal Projects Account
-Mac: https://github.com/marck001
-
+Check out my personal projects here: [github.com/marck001](https://github.com/marck001)
+</div>
 <!---
 marck-h-cmd/marck-h-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
