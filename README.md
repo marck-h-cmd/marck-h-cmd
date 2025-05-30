@@ -3,7 +3,7 @@
   <h1>Hi 👋 I'm Marck A.</h1>
   <h3>🌐 Web Developer | Full-Stack Enthusiast</h3>
   
-  <p>Passionate about building clean, efficient, and user-friendly applications. Always learning.</p>
+  <p>Passionate about building clean and user-friendly applications. Always learning.</p>
   
 </div>
 
