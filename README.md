@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Hi 👋 I'm Marck A.</h1>
-  <h3>🌐 Web Developer | Full-Stack Enthusiast</h3>
+  <h3>🌐 Trainee Web Developer | Full-Stack Enthusiast</h3>
   
   <p>Passionate about building applications. Always learning.</p>
   
